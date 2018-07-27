@@ -1,0 +1,9 @@
+.content {
+    padding-right: 10px;
+}
+
+
+
+html[data-dir="rtl"] .categories > li .content .icon, html[data-dir="rtl"] .category > ul > li .content .avatar {
+    margin-left: 6px;
+}
